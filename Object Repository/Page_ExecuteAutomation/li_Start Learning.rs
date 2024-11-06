@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Start Learning</name>
+   <tag></tag>
+   <elementGuidId>252aff44-23cb-4d47-8c39-49a7e45382a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div/div[2]/div/ul/li[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ct-link.ct-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>cd77d7ae-9705-49d5-8e42-e462075e5889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ct-link ct-button </value>
+      <webElementGuid>f8a65501-caa4-4708-8a7e-09b70d0a0223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start Learning</value>
+      <webElementGuid>e1839be9-d339-4c5b-8231-adcbe15cc5f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;ct-header-container&quot;]/div[@class=&quot;container-fluid ct-container-fluid&quot;]/div[@class=&quot;container ct-container&quot;]/div[@class=&quot;ct-header&quot;]/div[@class=&quot;ct-navigation-drawer&quot;]/div[@class=&quot;ct-header-content&quot;]/ul[@class=&quot;ct-ul&quot;]/li[@class=&quot;ct-link ct-button&quot;]</value>
+      <webElementGuid>851db13d-0dd6-4481-8048-a84e91cecbdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div/div[2]/div/ul/li[4]</value>
+      <webElementGuid>2f51c9fd-e359-4e20-beed-7adb1d46355e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/following::li[1]</value>
+      <webElementGuid>5cd66f88-6c9d-46ad-bdb2-f682099e976b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[2]/following::li[2]</value>
+      <webElementGuid>46f914e0-e9c6-48f7-b648-c78a038f0066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[3]/preceding::li[2]</value>
+      <webElementGuid>492b75b2-5b4f-43d1-982e-8bdc452b0efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>ca08d6d0-6dc2-4744-b9e1-a257d7bb3899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Start Learning' or . = 'Start Learning')]</value>
+      <webElementGuid>c21a6c18-231f-46bb-9e58-6f80d70735e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
